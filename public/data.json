@@ -1,0 +1,49 @@
+[
+    {
+      "product": "iPhone",
+      "brand": "Apple",
+      "model": "iPhone 13",
+      "color": "Space Gray",
+      "storage": "256GB",
+      "price": 999
+    },
+    {
+      "product": "Laptop",
+      "brand": "Dell",
+      "model": "XPS 15",
+      "processor": "Intel Core i7",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "price": 1499
+    },
+    {
+      "product": "Keyboard",
+      "brand": "Logitech",
+      "model": "K780 Multi-Device Wireless Keyboard",
+      "connectivity": "Bluetooth",
+      "price": 79.99
+    },
+    {
+      "product": "Mouse",
+      "brand": "Logitech",
+      "model": "MX Master 3",
+      "connectivity": "Bluetooth/USB",
+      "price": 99.99
+    },
+    {
+      "product": "Headphone",
+      "brand": "Sony",
+      "model": "WH-1000XM4",
+      "type": "Over-Ear",
+      "color": "Black",
+      "price": 349.99
+    },
+    {
+      "product": "iWatch",
+      "brand": "Apple",
+      "model": "Apple Watch Series 7",
+      "color": "Midnight",
+      "size": "45mm",
+      "price": 399
+    }
+  ]
